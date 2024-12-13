@@ -1,0 +1,2 @@
+# GravitySpheres
+ Sphere Gravity and Packing Visualization is an interactive 3D web-based project built with WebGL and Three.js. It showcases a dynamic and visually appealing sphere packing simulation, where users can interact with the animation by toggling gravity and randomizing sphere colors.  The project serves as both an engaging visual experience and a demonstration of JavaScript-based WebGL rendering using Three.js components. It's perfect for those interested in interactive web design, 3D graphics, or creative coding.
