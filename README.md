@@ -10,9 +10,9 @@ This project demonstrates an interactive 3D sphere packing visualization using W
   - **Random Colors:** Randomize the colors of the spheres for a vibrant visual effect.
 - **Responsive Design:** Scales seamlessly across devices, maintaining a beautiful user experience.
 
-## Installation
+<!--## Installation
 
-To run this project locally:
+To run this project locally:-->
 
 ## How to Use
 1. Clone this repository or download the project files.
@@ -22,12 +22,6 @@ To run this project locally:
    Select "Open with Live Server" to see the 3D simulation in action.
 6. Use the buttons to toggle gravity and change sphere colors dynamically.
 
-
-## Usage
-
-- Open the webpage in your browser.
-- Use the **Toggle gravity** button to control the gravitational effect on the spheres.
-- Use the **Random colors** button to randomize sphere colors.
 
 <!--## Preview
 ![Project Preview](path_to_image.jpg)
