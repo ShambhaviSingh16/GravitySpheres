@@ -34,13 +34,14 @@ You can see the live demo here: [Sphere Gravity Demo](https://...) -->
 ## Screenshots
 
 ### Initial View:
-![Initial View](./screenshots/initial-view.png)
+![Initial View](./images/1.png)
 
-### After Applying Gravity:
-![Gravity Effect](./screenshots/gravity-effect.png)
+### After Toggle Gravity:
+![Gravity Effect 1](./images/2.png)
+![Gravity Effect 2](./images/3.png)
 
 ### Randomized Colors:
-![Random Colors](./screenshots/random-colors.png)
+![Random Colors](./images/4.png)
 
 ## Technologies Used
 
