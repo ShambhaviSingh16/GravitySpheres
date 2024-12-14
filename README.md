@@ -1,8 +1,8 @@
-# GravitySpheres
+#  GravitySpheres
 
 This project demonstrates an interactive 3D sphere packing visualization using WebGL and Three.js components. The application features a mesmerizing display of spheres that respond to gravity and color changes triggered by user interactions.
 
-## Features
+## ✨ Features
 
 - **3D Sphere Packing:** A dynamic background with 300 spheres, varying in size and responding to gravity.
 - **Interactive Controls:**
@@ -14,13 +14,19 @@ This project demonstrates an interactive 3D sphere packing visualization using W
 
 To run this project locally:-->
 
-## How to Use
+## 🚀 How to Use
+### 🚨 Prerequisites
+To run this project locally, you will need:
+- A web browser (Google Chrome, Firefox, etc.)
+- A text editor (VS Code)
+- Make sure to install the Live Server extension in VS Code.
+
+### 💻 Installation
 1. Clone this repository or download the project files.
 2. Open  the downloaded files in the VS Code.
-3. Install the **Live Server extension** in VS Code.
-4. Right-click your index.html file in VS Code.
+3. Right-click your index.html file in VS Code.
    Select "Open with Live Server" to see the 3D simulation in action.
-6. Use the buttons to toggle gravity and change sphere colors dynamically.
+4. Use the buttons to toggle gravity and change sphere colors dynamically.
 
 
 <!--## Preview
@@ -31,7 +37,7 @@ To run this project locally:-->
 
 You can see the live demo here: [Sphere Gravity Demo](https://...) -->
 
-## Screenshots
+## 📸 Screenshots
 
 ### Initial View:
 ![Initial View](./images/1.png)
@@ -43,14 +49,14 @@ You can see the live demo here: [Sphere Gravity Demo](https://...) -->
 ### Randomized Colors:
 ![Random Colors](./images/4.png)
 
-## Technologies Used
+## 🔧 Technologies Used
 
 - **HTML**: For structuring the application.
 - **CSS**: For styling the interface.
 - **JavaScript**: For interactive functionalities.
 - **Three.js Components**: For rendering the 3D spheres.
 
-## Customization
+## Customization 💻
 
 You can easily customize the simulation:
 
@@ -61,5 +67,4 @@ You can easily customize the simulation:
 
 -----------------------------------------------------------------------------------------------------------------------
 
-Feel free to contribute by submitting issues, fork this repository and send pull requests. 
-Contributions are welcome!
+Contributions are welcome! 🌟
