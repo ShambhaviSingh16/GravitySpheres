@@ -29,13 +29,9 @@ To run this project locally, you will need:
 4. Use the buttons to toggle gravity and change sphere colors dynamically.
 
 
-<!--## Preview
-![Project Preview](path_to_image.jpg)
- Add your image path here 
+<!-- ## Live Demo
 
- ## Live Demo
-
-You can see the live demo here: [Sphere Gravity Demo](https://...) -->
+You can see the live demo here: [Gravity Sphere Demo](https://...) -->
 
 ## 📸 Screenshots
 
